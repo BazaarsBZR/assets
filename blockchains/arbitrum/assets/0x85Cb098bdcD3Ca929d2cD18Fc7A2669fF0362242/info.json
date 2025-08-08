@@ -1,11 +1,9 @@
 {
   "name": "Bazaars",
   "symbol": "BZR",
-  "type": "ERC20",
+  "type": "ORC55",
   "decimals": 18,
-  "description": "BZR is a deflationary, antifragile token deployed across 10 blockchains with no admin functions or minting ability.",
-  "website": "https://bazaars.io",
-  "explorer": "https://etherscan.io/token/0x85Cb098bdcD3Ca929d2cD18Fc7A2669fF0362242",
+  "explorer": "https://arbiscan.io/address/0x85Cb098bdcD3Ca929d2cD18Fc7A2669fF0362242F0362242",
   "status": "active",
   "id": "0x85Cb098bdcD3Ca929d2cD18Fc7A2669fF0362242",
   "tags": [
@@ -21,11 +19,11 @@
     },
     {
       "name": "telegram",
-      "url": "https://t.me/bazaarstoken"
+      "url": "https://t.me/bazaarsOfficial"
     },
     {
       "name": "discord",
-      "url": "https://discord.gg/bazaars"
+      "url": "https://discord.com/invite/bazaars-bzr-979586323688087552"
     },
     {
       "name": "github",
