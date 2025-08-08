@@ -3,17 +3,11 @@
   "symbol": "BZR",
   "type": "ERC20",
   "decimals": 18,
-  "description": "BZR is a deflationary, antifragile token deployed across 10 blockchains with no admin functions or minting ability.",
+  "description": "BZR is a revolutionary antifragile token that becomes stronger through destruction. Deployed across 10 blockchains with a deflationary mechanism where chain failures automatically burn supply. The first truly decentralized token with no admin functions, no minting capability, and a total supply that can only decrease.",
   "website": "https://bazaars.io",
   "explorer": "https://etherscan.io/token/0x85Cb098bdcD3Ca929d2cD18Fc7A2669fF0362242",
   "status": "active",
   "id": "0x85Cb098bdcD3Ca929d2cD18Fc7A2669fF0362242",
-  "tags": [
-    "defi",
-    "deflationary",
-    "multichain",
-    "antifragile"
-  ],
   "links": [
     {
       "name": "twitter",
@@ -30,6 +24,21 @@
     {
       "name": "github",
       "url": "https://github.com/BazaarsBZR"
+    },
+    {
+      "name": "whitepaper",
+      "url": "https://bazaars.io/whitepaper"
+    },
+    {
+      "name": "coingecko",
+      "url": "https://www.coingecko.com/en/coins/bazaars"
+    },
+    {
+      "name": "coinmarketcap",
+      "url": "https://coinmarketcap.com/currencies/bazaars"
     }
+  ],
+  "tags": [
+    "defi"
   ]
 }
